@@ -12,3 +12,4 @@ Mạch các loại cảm biến cho KIT Micro:bit được tích hợp thêm Pin
 - Đầu ra: 16 LED đơn, 1 còi xung
 - LED báo trạng thái khi sạc đầy
 - Công tắc chuyển mạch bật tắt nguồn
+- Tích hợp code mẫu đi kèm
