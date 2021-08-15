@@ -1,4 +1,4 @@
-# Micro:bit mạch cảm biến (public)
+# Micro:bit mạch cảm biến
 *Micro:bit mạch cảm biến được phát triển dựa trên KIT Micro:bit*
 
 ### Tính năng
